@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "game_field.h": "c",
+        "control.h": "c",
+        "windows.h": "c",
+        "conio.h": "c",
+        "snake.h": "c",
+        "stdint.h": "c"
+    }
+}
